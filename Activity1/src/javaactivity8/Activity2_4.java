@@ -2,7 +2,8 @@ package javaactivity8;
 
 public class Activity2_4 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		// TODO Auto-generated method stub
 		
 		try 
