@@ -2,6 +2,8 @@ package javaavtivity10;
 
 import java.util.HashSet;
 import java.util.Set;
+import java.util.*;
+
 
 public class Activity3_2 {
 
@@ -15,6 +17,12 @@ public class Activity3_2 {
         hs.add("A");
         hs.add("M");
         hs.add("X");
+        
+        Iterator<String> it = hs.iterator();
+        while(it.hasNext())
+		{
+			System.out.print(it.next()+" ");
+		}
 		
 		System.out.println(hs);
 		
