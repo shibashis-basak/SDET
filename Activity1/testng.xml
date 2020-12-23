@@ -7,6 +7,8 @@
       <class name="projectSelenium.Activity2"/>
       <class name="projectSelenium.Activity3"/>
       <class name="projectSelenium.Activity4"/>
+      <class name="projectSelenium.Activity5"/>
+      <class name="projectSelenium.Activity6"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
