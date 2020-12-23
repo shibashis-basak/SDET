@@ -3,16 +3,10 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="testNGTests.Activity1"/>
-      <class name="testNGTests.Activity2"/>
-      <class name="testNGTests.Activity3"/>
-      <class name="testNGTests.DemoTwo"/>
-      <class name="testNGTests.DemoOne"/>
-      <class name="testNGTests.Activity5"/>
-      <class name="testNGTests.Activity6"/>
-      <class name="testNGTests.Activity7"/>
-      <class name="testNGTests.Activity9"/>
-      <class name="testNGTests.Activity10"/>
+      <class name="projectSelenium.Activity1"/>
+      <class name="projectSelenium.Activity2"/>
+      <class name="projectSelenium.Activity3"/>
+      <class name="projectSelenium.Activity4"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
