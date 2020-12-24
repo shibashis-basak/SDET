@@ -9,6 +9,9 @@
       <class name="projectSelenium.Activity4"/>
       <class name="projectSelenium.Activity5"/>
       <class name="projectSelenium.Activity6"/>
+      <class name="projectSelenium.Activity7"/>
+      <class name="projectSelenium.Activity8"/>
+      <class name="projectSelenium.Activity9"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
