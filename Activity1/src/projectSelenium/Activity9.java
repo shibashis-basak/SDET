@@ -18,9 +18,8 @@ public class Activity9 {
 			 driver.findElement(By.id("user_login")).sendKeys("root");
 			 driver.findElement(By.id("user_pass")).sendKeys("pa$$w0rd");
 			 driver.findElement(By.id("wp-submit")).click(); 
-			 String title = driver.getTitle();
-			 System.out.println(title);
-			 Assert.assertEquals(title, "Dashboard ‹ Alchemy Jobs — WordPress");
+			 
+			 
 			 	  
 	  }
 	  
